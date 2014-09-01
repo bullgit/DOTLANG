@@ -30,3 +30,18 @@ Interpreted
     8
     9
     10
+
+## Other thing to do with
+From 
+    .
+    +
+    .
+    =
+    ..
+To 
+    
+    1
+    +
+    1
+    =
+    2
