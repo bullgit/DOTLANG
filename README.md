@@ -3,6 +3,10 @@ DOTLANG
 
 A Developement language based on DOTS and interpreted with jQuery
 
+### Why math oriented ? 
+Cause it's all about numbers, and we're working on an alphabet version. 
+Which will be, the alphabet oriented version. 
+
 ## The thing 
 Non interpreted
   
