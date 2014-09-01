@@ -32,7 +32,7 @@ Interpreted
     10
 
 ## Other thing to do with
-From 
+From
     .
     +
     .
