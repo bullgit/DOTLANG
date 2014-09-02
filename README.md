@@ -1,7 +1,6 @@
 ![](http://puu.sh/biuez/beddc77692.png)
-DOTLANG
-=======
 
+DOTLANG
 A Developement language based on DOTS and interpreted with jQuery
 
 ### Why math oriented ? 
