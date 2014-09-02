@@ -1,4 +1,4 @@
-![http://puu.sh/biuez/beddc77692.png]()
+![](http://puu.sh/biuez/beddc77692.png)
 DOTLANG
 =======
 
