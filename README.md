@@ -56,3 +56,24 @@ To
 ..... - .... = 1
 ... * .... = 24
 ........ / .... = 3
+
+## How to ? 
+Just load the dotlang interpreter at the end of your doc, just before the closing `</body>` tag. 
+```html
+<script type="text/javascript" src="path/to/dotlang.min.js"></script>
+```
+
+### Then
+
+Then open a script tag with the proper `type="text/x-dotlang` attribute.
+````html
+<script type="text/x-dotlang">
+	..
+	.
+	...
+	..
+	.....
+	.
+</script>
+
+Then, just write dotlang ! 
