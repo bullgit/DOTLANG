@@ -24,38 +24,38 @@ Non interpreted
 
 Interpreted
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	10
 
 ## Other thing to do with
 From
 
-.
-+
-.
-=
-..
+	.
+	+
+	.
+	=
+	..
 To 
 
-1
-+
-1
-=
-2
+	1
+	+
+	1
+	=
+	2
 
 ## Concrete example 
-... + .... + ... = 10
-..... - .... = 1
-... * .... = 24
-........ / .... = 3
+	... + .... + ... = 10
+	..... - .... = 1
+	... * .... = 24
+	........ / .... = 3
 
 ## How to ? 
 Just load the dotlang interpreter at the end of your doc, just before the closing `</body>` tag. 
